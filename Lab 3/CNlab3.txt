@@ -1,0 +1,3 @@
+; an punctuation line.
+int float keywords
+abcd identidier
